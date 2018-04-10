@@ -1,7 +1,6 @@
 # ======================================================================
 # FILE:        Makefile
 #
-# AUTHOR:      Abdullah Younis
 #
 # DESCRIPTION: This file contains useful commands for this project. You
 #              may use the following commands:
